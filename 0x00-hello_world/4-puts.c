@@ -1,9 +1,9 @@
 #include<stdio.h>
 
 /**
- * This Program displays a text uing the FUNCTION, puts.
- * return 0
- */
+* main - main block
+* Return - 0
+*/
 
 int main(void)
 {
